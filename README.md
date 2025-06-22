@@ -1,6 +1,6 @@
 
 
-## files for project: 
+## files for project: https://mygcuedu6961-my.sharepoint.com/:f:/g/personal/cnshutiman_my_gcu_edu/EhY7pbzB8u1FokL4JAFVlhgBLHfz2ydMgRHg-Ma3Fkd8bg?e=nSvcbO
 # Capstone HCI Project – Environmental Exploration VR
 
 ## 🎓 Student Info
