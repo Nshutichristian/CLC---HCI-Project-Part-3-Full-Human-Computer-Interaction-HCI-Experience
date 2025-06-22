@@ -1,4 +1,6 @@
 
+
+## files for project: 
 # Capstone HCI Project – Environmental Exploration VR
 
 ## 🎓 Student Info
